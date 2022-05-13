@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-DrivingSim.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Marku\OneDrive\Dokument\Unreal Projects\DrivingSim\Intermediate\Build\Win64\DrivingSimEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Marku\OneDrive\Dokument\Unreal Projects\DrivingSim\Intermediate\Build\Win64\UE4Editor\Development\DrivingSim\DrivingSim.cpp.obj"
+"C:\Users\Marku\OneDrive\Dokument\Unreal Projects\DrivingSim\Intermediate\Build\Win64\UE4Editor\Development\DrivingSim\DrivingSimGameModeBase.cpp.obj"
+"C:\Users\Marku\OneDrive\Dokument\Unreal Projects\DrivingSim\Intermediate\Build\Win64\UE4Editor\Development\DrivingSim\DrivingSim.init.gen.cpp.obj"
+"C:\Users\Marku\OneDrive\Dokument\Unreal Projects\DrivingSim\Intermediate\Build\Win64\UE4Editor\Development\DrivingSim\DrivingSimGameModeBase.gen.cpp.obj"
+"C:\Users\Marku\OneDrive\Dokument\Unreal Projects\DrivingSim\Intermediate\Build\Win64\UE4Editor\Development\DrivingSim\Default.rc2.res"
+/OUT:"C:\Users\Marku\OneDrive\Dokument\Unreal Projects\DrivingSim\Intermediate\Build\Win64\UE4Editor\Development\DrivingSim\UE4Editor-DrivingSim.lib"

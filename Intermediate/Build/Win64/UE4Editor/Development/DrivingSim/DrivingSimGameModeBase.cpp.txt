@@ -1,0 +1,7 @@
+C:\Users\Marku\OneDrive\Dokument\Unreal Projects\DrivingSim\Intermediate\Build\Win64\UE4Editor\Development\DrivingSim\Definitions.DrivingSim.h
+C:\Users\Marku\OneDrive\Dokument\Unreal Projects\DrivingSim\Source\DrivingSim\DrivingSimGameModeBase.h
+C:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\Marku\OneDrive\Dokument\Unreal Projects\DrivingSim\Intermediate\Build\Win64\UE4Editor\Inc\DrivingSim\DrivingSimGameModeBase.generated.h

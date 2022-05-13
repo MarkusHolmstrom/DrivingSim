@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Marku\\OneDrive\\Dokument\\Unreal Projects\\DrivingSim\\Source\\DrivingSim\\DrivingSim.Build.cs",
+		"C:\\Users\\Marku\\OneDrive\\Dokument\\Unreal Projects\\DrivingSim\\Source\\DrivingSim.Target.cs",
+		"C:\\Users\\Marku\\OneDrive\\Dokument\\Unreal Projects\\DrivingSim\\Source\\DrivingSimEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

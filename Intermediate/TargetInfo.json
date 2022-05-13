@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DrivingSim",
+			"Path": "C:\\Users\\Marku\\OneDrive\\Dokument\\Unreal Projects\\DrivingSim\\Source\\DrivingSim.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DrivingSimEditor",
+			"Path": "C:\\Users\\Marku\\OneDrive\\Dokument\\Unreal Projects\\DrivingSim\\Source\\DrivingSimEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
